@@ -1,0 +1,196 @@
+ quality 25 - good 25 ~ POS | use 24 - good 25 ~ POS 
+ pasta 5 pasta 6 - fresh 10 ~ POS | pasta 5 dish 6 - fresh 10 ~ POS 
+ design 12 - fine 13 ~ POS | runs 19 - fine 20 ~ POS 
+ sauce 4 - fresh 3 ~ POS 
+ support 1 - not 3 bad 4 ~ NEG 
+ power 8 - NOT 3 off 4 ~ NEG 
+ scallops 5 - delicious 4 ~ POS 
+ place 4 - great 3 ~ POS 
+ performance 5 - high 4 ~ POS 
+ place 6 - favorite 5 ~ POS 
+ omlette 1 beer 2 - great 3 ~ POS 
+ food 9 - spicy 12 ~ NEG 
+ price 25 - well 25 ~ POS 
+ fried 4 power 5 - out 6 ~ POS 
+ battery 1 life 2 - does 4 n't 5 long 6 ~ NEG 
+ drinks 1 - amazing 3 ~ POS 
+ Bison 0 - excellent 3 ~ POS 
+ Food 0 - good 3 ~ POS 
+ chicken 1 - limited 3 ~ NEG 
+ portion 6 - tasty 9 ~ POS 
+ works 7 - well 8 ~ POS 
+ food 4 - good 3 ~ POS | food 4 - good 6 ~ POS 
+ pad 2 pad 4 - worst 1 ~ NEG 
+ restaurant 8 - bad 12 ~ POS 
+ display 3 - fresh 4 ~ POS 
+ keyboard 12 - excellent 2 ~ POS | power 12 - excellent 3 ~ POS 
+ Service 0 - perfect 4 ~ POS 
+ atmosphere 1 - good 3 ~ POS | atmosphere 7 - good 6 ~ POS 
+ use 9 - easy 10 ~ POS | use 11 - easy 12 ~ POS 
+ Heartland 10 Brewery 11 - NEVER 20 ~ POS 
+ service 5 - bad 9 ~ NEG 
+ meals 4 - memorable 7 ~ POS 
+ food 3 - Japanese 2 ~ POS | food 11 - Japanese 13 ~ POS 
+ service 2 - good 6 ~ POS | service 7 - good 25 ~ POS 
+ blond 1 wood 2 decor 3 - soothing 6 ~ POS | decor 8 - soothing 10 ~ POS | service 15 - great 16 ~ POS 
+ screen 1 - screen 3 ~ NEG 
+ service 1 - attentive 3 ~ POS 
+ food 1 - great 3 ~ POS | food 4 - great 3 ~ POS | food 8 - great 3 ~ POS | food 11 - great 3 ~ POS 
+ sushi 4 - best 3 ~ POS | sushi 4 - best 3 ~ POS 
+ service 7 - not 2 not 3 not 4 not 5 not 6 not 7 not 8 not 9 not 10 not 11 not 4 not 7 not 4 not 7 not 11 not 4 not 4 not
+ service 1 - attentive 3 ~ POS | service 1 - attentive 6 ~ POS 
+ scallops 3 - delicious 10 ~ POS | sauce 14 - delicious 21 ~ POS 
+ food 6 - cheap 3 ~ POS 
+ food 4 - fantastic 3 ~ POS 
+ hard 8 drive 9 - not 2 ~ NEG 
+ restaurant 1 - 
+ sashimi 1 - not 3 fresh 4 ~ NEG | sashimi 9 - not 10 fresh 11 ~ NEG 
+ service 1 - slow 4 ~ POS 
+ runs 1 - not 2 worth 3 ~ POS 
+ Guacamole+shrimp 0 appetizer 1 - great 4 ~ POS | filet 10 - great 13 ~ POS 
+ restaurant 1 - romantic 4 ~ POS 
+ place 1 - intimate 3 ~ POS | place 1 - intimate 5 ~ POS | place 12 - intimate 13 ~ POS 
+ chicken 3 with 4 dishes 5 - good 3 ~ POS | dishes 10 - fresh 12 ~ POS 
+ takeout 1 - great 3 ~ POS 
+ ambiance 1 - nice 3 ~ POS | ambiance 1 - nice 7 ~ POS 
+ Windows 2 - No 0 ~ NEG 
+ decor 1 - nice 4 ~ POS | decor 1 - nice 5 ~ POS | decor 1 - nice 10 ~ POS | decor 13 - nice 14 ~ POS 
+ quality 3 - fine 0 ~ POS 
+ food 43 - good 41 ~ POS 
+ atmosphere 2 - LOVE 0 ~ POS 
+ better 1 - better 4 ~ POS 
+ stuff 1 - horrid 4 ~ NEG 
+ food 9 - recommend 2 ~ POS | service 9 - recommend 2 ~ POS | service 12 - recommend 2 ~ POS | service 15 - recommend 2 ~ POS 
+ food 1 - amazing 4 ~ POS 
+ food 3 - good 7 ~ POS | food 13 - great 14 ~ POS 
+ crust 1 - great 4 ~ POS | crust 1 - great 8 ~ POS | cheese 10 - great 12 ~ POS 
+ sushi 7 - best 4 ~ POS 
+ food 4 - good 3 ~ POS | service 7 - ok 6 ~ POS 
+ fish 3 - enjoyed 2 ~ POS | fish 8 - enjoyed 2 ~ POS 
+ food 1 - fresh 4 ~ POS | food 1 - tasty 7 ~ POS | food 1 - well 10 prepared 11 ~ POS 
+ chicken 3 chicken 4 - good 5 ~ POS | salmon 10 - good 11 ~ POS 
+ atmosphere 1 - large 3 ~ POS 
+ food 19 - good 20 ~ POS 
+ atmosphere 6 - liked 1 ~ POS 
+ battery 3 - not 2 not 3 as 4 not 5 as 6 as 7 as 8 as 9 be 10 be 8 as 9 be 10 ~ NEG 
+ worst 3 - worst 2 ~ NEG 
+ food 1 - well 4 prepared 5 ~ POS 
+ view 5 - great 6 ~ POS 
+ food 8 - good 6 ~ POS | food 12 - good 13 ~ POS 
+ service 1 - awful 3 ~ NEG 
+ Keyboard 0 - well 1 ~ POS 
+ size 4 - disappointing 8 ~ NEG 
+ wine 1 list 2 - extensive 4 ~ POS | priced 12 - reasonably 13 ~ POS 
+ Ambiance 0 - superb 1 ~ POS 
+ use 8 - use 9 ~ POS 
+ fish 8 - fresh 10 ~ POS | rice 11 - thin 10 ~ POS 
+ dessert 1 - dessert 3 ~ NEG 
+ portions 1 - small 3 ~ NEG | dessert 7 - not 9 inspired 10 ~ NEG 
+ sushi 9 - bland 12 ~ NEG | sushi 16 - bland 12 ~ NEG 
+ garden 6 garden 7 - great 4 ~ POS 
+ service 6 - excellent 3 ~ POS | service 6 - excellent 3 ~ POS 
+ food 1 - ok 3 ~ POS | service 6 - great 3 ~ POS 
+ rice 3 - not 2 fresh 3 ~ NEG | rice 3 - not 4 fresh 5 ~ NEG 
+ spices 1 - Delicate 0 ~ POS | onions 3 - Delicate 0 ~ POS | roti 9 - Delicate 0 ~ POS 
+ Delivery 0 - upset 4 ~ POS 
+ price 6 - great 3 ~ POS | price 8 - great 6 ~ POS 
+ screen 5 - faster 3 ~ POS 
+ reservation 18 - not 20 ~ POS 
+ built 12 - hot 11 ~ POS 
+ decor 8 - delicious 10 ~ POS | staff 16 - delicious 17 ~ POS 
+ delivery 11 - forgot 8 ~ NEG 
+ sushi 3 sushi 4 - sushi 5 ~ POS 
+ atmosphere 1 - nice 4 ~ POS | atmosphere 21 - nice 22 ~ POS 
+ waiter 1 - attentive 3 ~ POS 
+ place 1 - Great 0 ~ POS | place 4 - great 3 ~ POS 
+ place 6 - nice 8 ~ POS 
+ cuisine 4 - best 8 ~ POS 
+ food 1 - great 3 ~ POS | decor 1 - great 3 ~ POS | food 7 - great 3 ~ POS 
+ eats 10 - good 9 ~ POS | eats 10 - good 9 ~ POS 
+ design 6 - impressed 6 ~ POS 
+ sangria 1 - tasty 4 ~ POS 
+ Food 0 - good 2 ~ POS | Food 0 - good 4 ~ POS 
+ place 4 - good 3 ~ POS | place 8 - good 7 ~ POS 
+ place 3 - not 2 funny 3 ~ NEG | place 3 - not 8 funny 10 ~ NEG 
+ baked 22 Strike 23 - best 23 ~ POS 
+ place 4 - like 2 ~ POS 
+ staff 1 - good 4 ~ POS | staff 1 - good 7 ~ POS 
+ food 1 - small 3 ~ POS | food 8 - small 9 ~ POS 
+ service 2 - slow 4 ~ POS 
+ place 2 - expensive 8 ~ NEG 
+ price 1 - Good 0 ~ POS 
+ pastrami 4 sandwich 5 - huge 3 ~ POS 
+ pizza 18 - ashamed 13 ~ POS 
+ meal 10 - delicious 9 ~ POS | meal 10 - delicious 9 ~ POS 
+ salmon 2 - good 5 ~ POS 
+ menu 9 - seafood 10 ~ POS 
+ software 25 - fantastic 24 ~ POS 
+ chef 4 - Hats 0 off 1 ~ POS 
+ smoked 3 pasta 4 and 5 roe 6 pasta 7 - smoked 3 flavor 4 ~ NEG 
+ food 0 - average 2 ~ POS 
+ better 4 - better 17 ~ POS 
+ work 4 - does 5 ~ NEG 
+ Ow 12 Ley 13 Soh 14 - delicious 17 ~ POS | Ow 12 Ley 13 Soh 14 - delicious 17 ~ POS 
+ place 1 - Japanese 4 ~ POS 
+ food 17 - not 18 ~ POS 
+ waiter 1 - fine 5 ~ POS 
+ food 1 - cold 4 ~ NEG | food 1 - soggy 11 ~ NEG 
+ vitello 3 marsala 4 - impressed 10 ~ POS 
+ menu 10 - Try 0 ~ POS 
+ portions 13 - large 12 ~ POS 
+ view 4 - terrific 3 ~ POS 
+ place 1 - place 4 ~ POS 
+ food 3 - liked 1 ~ POS 
+ servers 1 - fantastic 3 ~ POS | servers 4 - fantastic 3 ~ POS 
+ place 1 - worth 3 ~ POS 
+ pizza 8 - better 4 ~ POS 
+ restaurant 1 - beautiful 5 ~ POS 
+ keyboard 14 - bad 2 ~ POS 
+ food 49 - better 37 ~ POS 
+ menu 1 - spectacular 3 ~ POS 
+ food 1 - food 3 ~ NEG 
+ lobster 3 tuna 4 - love 6 ~ POS 
+ pizza 5 - best 4 ~ POS 
+ location 1 - perfect 3 ~ POS 
+ food 8 - classic 8 ~ POS | Korean 9 food 10 - classic 8 ~ POS 
+ ambiance 1 - Zero 0 ~ NEG 
+ homemade 2 salad 3 - great 5 ~ POS 
+ pad 4 pad 5 - like 1 ~ POS 
+ french 25 fries 22 - best 25 ~ POS 
+ boths 1 - small 3 ~ POS | boths 1 - not 5 small 4 ~ POS 
+ service 1 - good 3 ~ POS 
+ food 3 - fine 8 ~ POS | food 9 - fine 12 ~ POS 
+ pad 2 pad 3 pad 4 - delicious 10 ~ POS 
+ design 3 - fantastic 2 ~ POS 
+ use 5 - easy 4 ~ POS 
+ menu 1 - limited 4 ~ NEG 
+ toppings 2 - amazing 0 ~ POS | toppings 4 - best 4 ~ POS 
+ food 1 - Great 0 ~ POS 
+ food 6 - great 5 ~ POS | food 9 - great 5 ~ POS 
+ waitress 3 - no 4 ~ NEG 
+ staff 19 - rude 29 ~ NEG 
+ tuna 2 - Try 0 ~ POS | tuna 3 - Try 0 ~ POS 
+ wines 3 - better 1 ~ POS 
+ food 4 - good 3 ~ POS | food 7 - good 13 ~ POS 
+ dishes 16 - fresh 16 ~ POS 
+ rolls 3 - great 2 ~ POS | rolls 3 - great 5 ~ POS 
+ grilled 5 branzino 6 - difficult 17 ~ NEG 
+ staff 1 - bad 0 ~ POS 
+ runs 11 - fast 14 ~ POS 
+ setting 1 - casual 3 ~ POS | setting 1 - casual 5 ~ POS 
+ waiter 1 - attentive 3 ~ POS | waiter 6 - attentive 9 ~ POS 
+ Fish 0 - overdone 2 ~ NEG 
+ restaurant 5 - beautiful 4 ~ POS 
+ eggs 3 benedict 4 - worst 11 ~ NEG 
+ cream 7 cheeses 8 - great 3 ~ POS | cream 7 cheeses 8 - great 3 ~ POS 
+ appetizer 0 - Try 0 ~ POS | appetizer 4 - Try 0 ~ POS 
+ food 1 - great 3 ~ POS 
+ food 1 - exceptional 3 ~ POS | service 43 - exceptional 37 ~ POS 
+ hot 1 dogs 2 - well 4 ~ POS | hot 1 dogs 2 - well 10 ~ POS 
+ value 10 - good 8 ~ POS 
+ food 1 - Great 0 ~ POS | service 4 - great 3 ~ POS | service 8 - great 7 ~ POS 
+ ports 6 - worth 12 ~ NEG 
+ priced 5 - well 6 ~ POS 
+ quality 1 - friendly 3 ~ POS 
+ Drinks 0 - higher 3 ~ NEG 
+ chicken 3 dish 4 - oily 5 ~ POS 
